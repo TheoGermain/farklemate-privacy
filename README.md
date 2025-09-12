@@ -16,7 +16,7 @@ Aucune information n'est conservée ailleurs.
 
 ## Contact
 Pour toute question, vous pouvez nous contacter à :  
-📧 [ton-email-public@example.com](mailto:ton-email-public@example.com)
+📧 [germain.app.supp](mailto:germain.app.supp)
 
 
 ---
@@ -39,4 +39,4 @@ No information is stored elsewhere.
 
 ## Contact
 For any question, please contact us at:  
-📧 [your-public-email@example.com](mailto:your-public-email@example.com)
+📧 [germain.app.supp](mailto:germain.app.supp)
